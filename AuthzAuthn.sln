@@ -3,13 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authentication", "Authentication\Authentication.csproj", "{DAC14D5C-7C71-44F3-873A-9EDF28A4182C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Authentication", "Authentication\Authentication.csproj", "{DAC14D5C-7C71-44F3-873A-9EDF28A4182C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authorization", "Authorization\Authorization.csproj", "{739B3802-FEE6-4730-81D8-D956238D543F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Authorization", "Authorization\Authorization.csproj", "{739B3802-FEE6-4730-81D8-D956238D543F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomersAPI", "CustomersAPI\CustomersAPI.csproj", "{1A1546A1-C3DA-4698-B083-DAFC085BD7DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomersAPI", "CustomersAPI\CustomersAPI.csproj", "{1A1546A1-C3DA-4698-B083-DAFC085BD7DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductsAPI", "ProductsAPI\ProductsAPI.csproj", "{0D48D5D9-0E3B-4145-AB0F-74E3CD1A5693}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductsAPI", "ProductsAPI\ProductsAPI.csproj", "{0D48D5D9-0E3B-4145-AB0F-74E3CD1A5693}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DD4214E6-E8AB-4E5E-817A-8C99FBA46112}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\Architecture.png = ..\..\..\Downloads\Architecture.png
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
