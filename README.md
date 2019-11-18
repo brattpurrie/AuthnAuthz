@@ -1,3 +1,1 @@
 # AuthnAuthz
-
-[Architecture] (./Architecture.png)
